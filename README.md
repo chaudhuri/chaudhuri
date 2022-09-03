@@ -12,5 +12,5 @@ More information can be found on [my official website](https://chaudhuri.info).
 * Interesting things I've written:
   * [Maetning](//github.com/chaudhuri/maetning): a first-order intuitionistic (dis)prover
   * [Profound](//github.com/chaudhuri/profound): subformula linking for classical linear logic
-  * [Profint](//github.com/chaudhuri/profint): subformula linking for intuitionistic logics
+  * [Profint](//github.com/chaudhuri/profound-intuitionistic): subformula linking for intuitionistic logics
   * [Sympli](//github.com/chaudhuri/sympli): an inverse method based automated theorem prover for intuitionistic linear logic (archived)
